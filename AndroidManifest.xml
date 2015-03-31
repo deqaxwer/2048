@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="in.net.shreyas.game2048"
+    package="net.moruq.2048aze"
     android:installLocation="auto"
     android:versionCode="26"
     android:versionName="2.4.4" >
